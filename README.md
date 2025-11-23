@@ -1,0 +1,1 @@
+# Customertrend_data_analysis_SQL_Python_PowerBI
